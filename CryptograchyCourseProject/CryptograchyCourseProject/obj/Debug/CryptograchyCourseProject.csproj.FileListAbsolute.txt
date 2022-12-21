@@ -1,0 +1,8 @@
+C:\Users\Stanislav Stoychev\Desktop\Internship\CryptograchyCourseProject\CryptograchyCourseProject\obj\Debug\CryptograchyCourseProject.csproj.AssemblyReference.cache
+C:\Users\Stanislav Stoychev\Desktop\Internship\CryptograchyCourseProject\CryptograchyCourseProject\obj\Debug\CryptograchyCourseProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Stanislav Stoychev\Desktop\Internship\CryptograchyCourseProject\CryptograchyCourseProject\obj\Debug\CryptograchyCourseProject.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav Stoychev\Desktop\Internship\CryptograchyCourseProject\CryptograchyCourseProject\bin\Debug\CryptograchyCourseProject.exe.config
+C:\Users\Stanislav Stoychev\Desktop\Internship\CryptograchyCourseProject\CryptograchyCourseProject\bin\Debug\CryptograchyCourseProject.exe
+C:\Users\Stanislav Stoychev\Desktop\Internship\CryptograchyCourseProject\CryptograchyCourseProject\bin\Debug\CryptograchyCourseProject.pdb
+C:\Users\Stanislav Stoychev\Desktop\Internship\CryptograchyCourseProject\CryptograchyCourseProject\obj\Debug\CryptograchyCourseProject.exe
+C:\Users\Stanislav Stoychev\Desktop\Internship\CryptograchyCourseProject\CryptograchyCourseProject\obj\Debug\CryptograchyCourseProject.pdb
